@@ -1,0 +1,23 @@
+body{
+    background-image: url("./real\ qr\ code.jpg");
+    color: rgb(14, 13, 13);
+    font-size: medium;
+    text-align: center;
+    font-family:serif;
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-blend-mode: hard-light;
+}
+.container h1{
+    background-color: hsla(86, 57%, 50%, 0.678);
+    border:solid 2px #0d0d0e;
+    /* transform: translate(50%,50%); */
+}
+.section{
+    background-color: rgba(7, 46, 90, 0.856);
+    border:double 2px rgb(10, 10, 10);
+    /* transform: translate(50%,20%); */
+}
+#my-qr-reader{
+    background-color: rgba(4, 78, 4, 0.486);
+}
